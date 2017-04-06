@@ -13,9 +13,9 @@ The website is accessible through traditional inputs like pointers and keyboards
 Through quickly sketching idea's I came up with a few idea's to build. I didn't build all of the idea's due to time constraints and generally purposefulness (e.g. rotate gesture to go through browser history). You can view the initial idea's below.
 
 ### Initial idea's
-![initial idea's](https://raw.githubusercontent.com/DaveBitter/minor-webdev_lifely/develop/images/idea_0.png)
-![initial idea's](https://raw.githubusercontent.com/DaveBitter/minor-webdev_lifely/develop/images/idea_1.png)
-![initial idea's](https://raw.githubusercontent.com/DaveBitter/minor-webdev_lifely/develop/images/idea_2.png)
+![initial idea's](https://raw.githubusercontent.com/DaveBitter/minor-webdev_lifely/master/images/idea_0.png)
+![initial idea's](https://raw.githubusercontent.com/DaveBitter/minor-webdev_lifely/master/images/idea_1.png)
+![initial idea's](https://raw.githubusercontent.com/DaveBitter/minor-webdev_lifely/master/images/idea_2.png)
 
 ## Library research
 I wanted to find a good library to make us of for the functionalities although I could make use of the Javascript touch events. Again, due to time constraints this is the fastest and most reliable way since I couldn't test thoroughly. 
@@ -41,23 +41,22 @@ Finally, the most useful of the three. A user can now swipe to the next or previ
 
 On touch devices, an animated gesture icon is shown to give feedback to show the user that he/she can do this.
 
-![gesture based navigating](https://raw.githubusercontent.com/DaveBitter/minor-webdev_lifely/develop/images/screenshot_0.png)
-![gesture based navigating](https://raw.githubusercontent.com/DaveBitter/minor-webdev_lifely/develop/images/screenshot_1.png)
+![gesture based navigating](https://raw.githubusercontent.com/DaveBitter/minor-webdev_lifely/master/images/screenshot_0.png)
+![gesture based navigating](https://raw.githubusercontent.com/DaveBitter/minor-webdev_lifely/master/images/screenshot_1.png)
 
 ### Gesture based discovery
 A user can now pinch out on an image of a internship supervisor in order to see a larger photo and the social links for that supervisor. THis functionality gives the user more information about the supervisor which is useful. When a user pinches back in, the image return to it's original size and the social links are hidden again.
 
 On touch devices, an animated gesture icon is shown to give feedback to show the user that he/she can do this.
 
-![gesture based discovery](https://raw.githubusercontent.com/DaveBitter/minor-webdev_lifely/develop/images/screenshot_2.png)
-![gesture based discovery](https://raw.githubusercontent.com/DaveBitter/minor-webdev_lifely/develop/images/screenshot_3.png)
-
+![gesture based discovery](https://raw.githubusercontent.com/DaveBitter/minor-webdev_lifely/master/images/screenshot_2.png)
+![gesture based discovery](https://raw.githubusercontent.com/DaveBitter/minor-webdev_lifely/master/images/screenshot_3.png)
 
 ### Gyroscope based actions
 A user can now make use of quickly tilting the device to reset the filters when filtering the vacancies by using the checkboxes. When the user does this, it triggers an event in which the filters will be reset.
 
-![gesture based discovery](https://raw.githubusercontent.com/DaveBitter/minor-webdev_lifely/develop/images/screenshot_4.png)
-![gesture based discovery](https://raw.githubusercontent.com/DaveBitter/minor-webdev_lifely/develop/images/screenshot_5.png)
+![gesture based discovery](https://raw.githubusercontent.com/DaveBitter/minor-webdev_lifely/master/images/screenshot_4.png)
+![gesture based discovery](https://raw.githubusercontent.com/DaveBitter/minor-webdev_lifely/master/images/screenshot_5.png)
 
 ### Extra
 These functionalities, especially the swipe in from the side for the menu, are usually found in native apps. This is were the user expects these kind of functionalities. I made a simple Progressive Web App of this site in order to make the website more like these native apps.
