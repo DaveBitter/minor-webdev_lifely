@@ -47,3 +47,10 @@ A user can now pinch out on an image of a internship supervisor in order to see 
 
 ![gesture based discovery](https://raw.githubusercontent.com/DaveBitter/minor-webdev_lifely/develop/images/screenshot_2.png)
 ![gesture based discovery](https://raw.githubusercontent.com/DaveBitter/minor-webdev_lifely/develop/images/screenshot_3.png)
+
+
+### Gyroscoop based actions
+A user can now make use of quickly tilting the device to reset the filters when filtering the vacancies by using the checkboxes. When the user does this, it triggers an event in wich the filters will be reset.
+
+![gesture based discovery](https://raw.githubusercontent.com/DaveBitter/minor-webdev_lifely/develop/images/screenshot_4.png)
+![gesture based discovery](https://raw.githubusercontent.com/DaveBitter/minor-webdev_lifely/develop/images/screenshot_5.png)
