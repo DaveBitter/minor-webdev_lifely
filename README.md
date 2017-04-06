@@ -12,7 +12,7 @@ The website is accessible through traditional inputs like pointers and keyboards
 ## Initial idea generation
 Through quickly sketching idea's I came up with a few idea's to build. I didn't build all of the idea's due to time constraints and generally purposfulness (e.g. rotate gesture to go through browser history). You can view the initial idea's below.
 
-![initial idea's](https://raw.githubusercontent.com/DaveBitter/minor-webdev_lifely/develop/images/idea_0.jpg)
-![initial idea's](https://raw.githubusercontent.com/DaveBitter/minor-webdev_lifely/develop/images/idea_1.jpg)
-![initial idea's](https://raw.githubusercontent.com/DaveBitter/minor-webdev_lifely/develop/images/idea_2.jpg)
+![initial idea's](https://raw.githubusercontent.com/DaveBitter/minor-webdev_lifely/develop/images/idea_0.png)
+![initial idea's](https://raw.githubusercontent.com/DaveBitter/minor-webdev_lifely/develop/images/idea_1.png)
+![initial idea's](https://raw.githubusercontent.com/DaveBitter/minor-webdev_lifely/develop/images/idea_2.png)
 
