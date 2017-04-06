@@ -29,4 +29,15 @@ I initially found three candidates:
 ### Chosen library
 At first, I chose for Zingtouch. It seemed to be the most well documentend one of the three. I quickly discovered a deal-breaker. Zingtouch handles [this issue](https://www.chromestatus.com/features/5093566007214080) very poorly. Next in line was the most popular, based on downloads, of the list. Hammer.js does the job and does the job good. Therefor, I used this library the rest of the project.
 
+## Build functionalities
+During this project I focussed on three area's. Using gestures to navigate, using gestures to discover and using the device's gyroscoop.
 
+### Gesture based navigating
+Firstly, a user can now swipe in from the side to open the mobile menu. This is intuitive since this is default behaviour in a lot of apps. 
+
+Secondly, a user can now swipe the header to navigate through the main 3 pages. This allows for quick navigating through the main pages.
+
+Finally, the most useful of the three. A user can now swipe to the next or previous vacancy on the detail vacancy pages. Previously, you had to go back to the oveview page and click the next vacancy. This will improve usability and efficiancy greatly.
+
+![gesture based navigating](https://raw.githubusercontent.com/DaveBitter/minor-webdev_lifely/develop/images/screenshot_0.png)
+![gesture based navigating](https://raw.githubusercontent.com/DaveBitter/minor-webdev_lifely/develop/images/screenshot_1.png)
