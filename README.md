@@ -62,4 +62,6 @@ A user can now make use of quickly tilting the device to reset the filters when 
 ### Extra
 These functionalities, especially the swipe in from the side for the menu, are usually found in native apps. This is were the user expects these kind of functionalities. I made a simple Progressive Web App of this site in order to make the website more like these native apps.
 
-
+## Links
+[Branch on GitHub repo](https://github.com/peterpeerdeman/freshheroes-cmd/tree/feature/gestures)
+[Issue on GitHub repo](https://github.com/peterpeerdeman/freshheroes-cmd/issues/7)
