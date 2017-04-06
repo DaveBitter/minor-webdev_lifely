@@ -39,11 +39,15 @@ Secondly, a user can now swipe the header to navigate through the main 3 pages. 
 
 Finally, the most useful of the three. A user can now swipe to the next or previous vacancy on the detail vacancy pages. Previously, you had to go back to the oveview page and click the next vacancy. This will improve usability and efficiancy greatly.
 
+An animated gesture icon is shown to give feedback to show the user that he/she can do this.
+
 ![gesture based navigating](https://raw.githubusercontent.com/DaveBitter/minor-webdev_lifely/develop/images/screenshot_0.png)
 ![gesture based navigating](https://raw.githubusercontent.com/DaveBitter/minor-webdev_lifely/develop/images/screenshot_1.png)
 
 ### Gesture based discovery
 A user can now pinch out on an image of a internship supervisor in order to see a larger photo and the social links for that supervisor. THis functionality gives the user more information about the supervisor which is useful. When a user pinches back in, the image return to it's original size and the social links are hidden again.
+
+An animated gesture icon is shown to give feedback to show the user that he/she can do this.
 
 ![gesture based discovery](https://raw.githubusercontent.com/DaveBitter/minor-webdev_lifely/develop/images/screenshot_2.png)
 ![gesture based discovery](https://raw.githubusercontent.com/DaveBitter/minor-webdev_lifely/develop/images/screenshot_3.png)
@@ -54,3 +58,8 @@ A user can now make use of quickly tilting the device to reset the filters when 
 
 ![gesture based discovery](https://raw.githubusercontent.com/DaveBitter/minor-webdev_lifely/develop/images/screenshot_4.png)
 ![gesture based discovery](https://raw.githubusercontent.com/DaveBitter/minor-webdev_lifely/develop/images/screenshot_5.png)
+
+### Extra
+These functionalities, especially the swipe in from the side for the menu, are usually found in native apps. This is were the user expects these kind of functionalities. I made a simple Progressive Web App of this site in order to make the website more like these native apps.
+
+
