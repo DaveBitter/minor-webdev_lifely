@@ -6,6 +6,9 @@ Dave Bitter | 500710907
 ## General
 This repository holds documentation for [Lifely's](https://lifely.nl/) [Fresh Heroes project](https://freshheroes.com/), part of the minor "Webdevelopment" at the [HvA](http://www.hva.nl/)
 
+## Contact
+Feel free to contact me a <daveybitter@gmail.com> for any questions regarding this project.
+
 ## What did I focus on?
 The website is accessible through traditional inputs like pointers and keyboards. I want to make use of gesture inputs to navigate through the entire site and for other actions that can be enhanced by this. Furthermore, I wanted to add a cool feature that made use of a device's gyroscope. 
 
@@ -62,5 +65,8 @@ A user can now make use of quickly tilting the device to reset the filters when 
 These functionalities, especially the swipe in from the side for the menu, are usually found in native apps. This is were the user expects these kind of functionalities. I made a simple Progressive Web App of this site in order to make the website more like these native apps.
 
 ## Links
-[Branch on GitHub repo](https://github.com/peterpeerdeman/freshheroes-cmd/tree/feature/gestures)
-[Issue on GitHub repo](https://github.com/peterpeerdeman/freshheroes-cmd/issues/7)
+You can view my work and issue at the repo if you get permissions from the owners.
+
+* [Branch on GitHub repo](https://github.com/peterpeerdeman/freshheroes-cmd/tree/feature/gestures)
+* [Issue on GitHub repo](https://github.com/peterpeerdeman/freshheroes-cmd/issues/7)
+
