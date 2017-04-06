@@ -69,4 +69,3 @@ You can view my work and issue at the repo if you get permissions from the owner
 
 * [Branch on GitHub repo](https://github.com/peterpeerdeman/freshheroes-cmd/tree/feature/gestures)
 * [Issue on GitHub repo](https://github.com/peterpeerdeman/freshheroes-cmd/issues/7)
-
