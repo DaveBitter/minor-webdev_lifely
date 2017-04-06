@@ -41,3 +41,9 @@ Finally, the most useful of the three. A user can now swipe to the next or previ
 
 ![gesture based navigating](https://raw.githubusercontent.com/DaveBitter/minor-webdev_lifely/develop/images/screenshot_0.png)
 ![gesture based navigating](https://raw.githubusercontent.com/DaveBitter/minor-webdev_lifely/develop/images/screenshot_1.png)
+
+### Gesture based discovery
+A user can now pinch out on an image of a internship supervisor in order to see a larger photo and the social links for that supervisor. THis functionality gives the user more information about the supervisor which is useful. When a user pinches back in, the image return to it's original size and the social links are hidden again.
+
+![gesture based discovery](https://raw.githubusercontent.com/DaveBitter/minor-webdev_lifely/develop/images/screenshot_2.png)
+![gesture based discovery](https://raw.githubusercontent.com/DaveBitter/minor-webdev_lifely/develop/images/screenshot_3.png)
